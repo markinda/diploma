@@ -1,0 +1,218 @@
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\КурсоваяWPF.exe.config
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\КурсоваяWPF.exe
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\КурсоваяWPF.pdb
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csprojAssemblyReference.cache
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\MainWindow.g.cs
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\App.g.cs
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF_MarkupCompile.cache
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF_MarkupCompile.lref
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\MainWindow.baml
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.g.resources
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.Properties.Resources.resources
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csproj.GenerateResource.cache
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csproj.CoreCompileInputs.cache
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.exe
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.pdb
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.dll
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.xml
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\ru\EntityFramework.resources.dll
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF_Content.g.cs
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csproj.CopyComplete
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\КурсоваяWPF.exe.config
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\КурсоваяWPF.exe
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\КурсоваяWPF.pdb
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\App.g.cs
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF_Content.g.cs
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF_MarkupCompile.cache
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF_MarkupCompile.lref
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\MainWindow.baml
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.g.resources
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.Properties.Resources.resources
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csproj.CopyComplete
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.exe
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.pdb
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win2.g.cs
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win3.g.cs
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win4.g.cs
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win5.g.cs
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win2.baml
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win3.baml
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win4.baml
+C:\Users\ACER\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win5.baml
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win2.g.cs
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win3.g.cs
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win4.g.cs
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win5.g.cs
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win2.baml
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win3.baml
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win4.baml
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win5.baml
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\КурсоваяWPF.exe.config
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\КурсоваяWPF.exe
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\КурсоваяWPF.pdb
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csprojAssemblyReference.cache
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win2.g.cs
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win3.g.cs
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win4.g.cs
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win5.g.cs
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\App.g.cs
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF_Content.g.cs
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF_MarkupCompile.cache
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF_MarkupCompile.lref
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win2.baml
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win3.baml
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win4.baml
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win5.baml
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.g.resources
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.Properties.Resources.resources
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csproj.GenerateResource.cache
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csproj.CopyComplete
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.exe
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.pdb
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\КурсоваяWPF.exe.config
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\КурсоваяWPF.exe
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\КурсоваяWPF.pdb
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win2.g.cs
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win3.g.cs
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win4.g.cs
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win5.g.cs
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\App.g.cs
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF_Content.g.cs
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF_MarkupCompile.cache
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF_MarkupCompile.lref
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\MainWindow.baml
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win2.baml
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win3.baml
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win4.baml
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win5.baml
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.g.resources
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.Properties.Resources.resources
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csproj.CopyComplete
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.exe
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.pdb
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win6.g.cs
+C:\Users\student\Desktop\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win6.baml
+D:\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\КурсоваяWPF.exe.config
+D:\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\КурсоваяWPF.exe
+D:\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\КурсоваяWPF.pdb
+D:\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.dll
+D:\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.SqlServer.dll
+D:\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.xml
+D:\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.SqlServer.xml
+D:\WPF\КурсоваяWPF\КурсоваяWPF\bin\Debug\ru\EntityFramework.resources.dll
+D:\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csprojAssemblyReference.cache
+D:\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\MainWindow.g.cs
+D:\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win2.g.cs
+D:\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win3.g.cs
+D:\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win4.g.cs
+D:\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win5.g.cs
+D:\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win6.g.cs
+D:\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\App.g.cs
+D:\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF_Content.g.cs
+D:\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF_MarkupCompile.cache
+D:\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF_MarkupCompile.lref
+D:\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\MainWindow.baml
+D:\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win2.baml
+D:\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win3.baml
+D:\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win4.baml
+D:\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win5.baml
+D:\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win6.baml
+D:\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.g.resources
+D:\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.Properties.Resources.resources
+D:\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csproj.GenerateResource.cache
+D:\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csproj.CoreCompileInputs.cache
+D:\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csproj.CopyComplete
+D:\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.exe
+D:\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.pdb
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win6.g.cs
+D:\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win6.baml
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win6.g.cs
+C:\Users\ACER\Desktop\Wpf Курсовая!\WPF\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win6.baml
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\bin\Debug\КурсоваяWPF.exe.config
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\bin\Debug\КурсоваяWPF.exe
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\bin\Debug\КурсоваяWPF.pdb
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win2.g.cs
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win4.g.cs
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win5.g.cs
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win6.g.cs
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\obj\Debug\App.g.cs
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF_Content.g.cs
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF_MarkupCompile.cache
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF_MarkupCompile.lref
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\obj\Debug\MainWindow.baml
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win2.baml
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win4.baml
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win5.baml
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win6.baml
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.g.resources
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.Properties.Resources.resources
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csproj.CopyComplete
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.exe
+C:\Users\ACER\Desktop\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.pdb
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\bin\Debug\КурсоваяWPF.exe.config
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\bin\Debug\КурсоваяWPF.exe
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\bin\Debug\КурсоваяWPF.pdb
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win2.g.cs
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win4.g.cs
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win5.g.cs
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win6.g.cs
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\obj\Debug\App.g.cs
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF_Content.g.cs
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF_MarkupCompile.cache
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF_MarkupCompile.lref
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\obj\Debug\MainWindow.baml
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win2.baml
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win4.baml
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win5.baml
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\obj\Debug\Win6.baml
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.g.resources
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.Properties.Resources.resources
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.csproj.CopyComplete
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.exe
+C:\Users\ACER\Desktop\Wpf Курсовая!\КурсоваяWPF\КурсоваяWPF\obj\Debug\КурсоваяWPF.pdb

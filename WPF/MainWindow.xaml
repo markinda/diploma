@@ -1,0 +1,44 @@
+﻿<Window x:Class="КурсоваяWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:КурсоваяWPF"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Магазин бытовой химии «Золушка»" Height="450" Width="500"
+        MinHeight="450" MaxHeight="450"
+        MinWidth="500" MaxWidth="500">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        <!-- HEADER -->
+        <StackPanel Grid.Row="0" Background="LightPink" Orientation="Horizontal" ToolTip="Название магазина и логотип">
+            <Image Source=".\img\zolyshka.png" Width="50" HorizontalAlignment="Left" Margin="20 0 0 0"></Image>
+            <TextBlock Text="Магазин бытовой химии «Золушка»" VerticalAlignment="Center" Margin="5" FontSize="20" Foreground="White" TextWrapping="Wrap" FontStyle="Oblique"></TextBlock>
+        </StackPanel>
+
+        <!-- AUTHORIZATION -->
+        <StackPanel Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Vertical">
+            <TextBlock Text="Авторизация" HorizontalAlignment="Left"  FontSize="25" Foreground="#c3c3c3" Margin="0 0 0 50"></TextBlock>
+            <TextBlock Text="login:" HorizontalAlignment="Left"  FontSize="15" Foreground="#c3c3c3"></TextBlock>
+            <TextBox x:Name="login" BorderThickness="0 0 0 1" BorderBrush="LightPink"  Foreground="#c3c3c3" FontSize="15" Width="150" ToolTip="Введите логин!"></TextBox>
+            <TextBlock Text="Password:" HorizontalAlignment="Left"  FontSize="15" Foreground="#c3c3c3"></TextBlock>
+            <TextBox x:Name="Password" BorderThickness="0 0 0 1" BorderBrush="LightPink" Foreground="#c3c3c3" FontSize="15" Width="150" ToolTip="Введите пароль!"></TextBox>
+            <Button Background="LightPink" Margin="0 30 0 0" Height="30" Foreground="White" BorderThickness="0" Content="Авторизоваться" FontSize="17" Click="Button_Click" ToolTip="Кнопка Авторизации"></Button>
+        </StackPanel>
+        
+        <!-- FOOTER -->
+        <StackPanel Grid.Row="3" Background="LightPink" Orientation="Horizontal">
+            <TextBlock Text="Copyright © 2020" VerticalAlignment="Center"  FontSize="18" Margin="200 0 0 0"  Foreground="White" TextWrapping="Wrap" FontStyle="Oblique" ></TextBlock>
+        </StackPanel>
+    </Grid>
+</Window>

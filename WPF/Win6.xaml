@@ -1,0 +1,52 @@
+﻿<Window x:Class="КурсоваяWPF.Win6"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:КурсоваяWPF"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Окно изменения товара"  Height="450" Width="800"
+        MinHeight="450" MaxHeight="450"
+        MinWidth="800" MaxWidth="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <!-- HEADER -->
+        <StackPanel Grid.Row="0" Background="LightPink" Orientation="Horizontal" ToolTip="Название магазина и логотип">
+            <Image Source=".\img\zolyshka.png" Width="50" HorizontalAlignment="Left" Margin="20 0 0 0"></Image>
+            <TextBlock Text="Магазин бытовой химии «Золушка»" VerticalAlignment="Center" Margin="5" FontSize="20" Foreground="White" TextWrapping="Wrap" FontStyle="Oblique"></TextBlock>
+        </StackPanel>
+
+        <!-- MAIN -->
+        <StackPanel Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Vertical">
+            <TextBlock Text="Штрих-код:" FontSize="15" Foreground="Silver"></TextBlock>
+            <TextBox x:Name="textbarcoder" BorderThickness="0 0 0 1" BorderBrush="LightPink" Width="170" IsReadOnly="True" Foreground="#c3c3c3" ToolTip="Поле ввода штрих-кода!"></TextBox>
+            <TextBlock Text="Название:" FontSize="15" Foreground="Silver"></TextBlock>
+            <TextBox x:Name="textname" BorderThickness="0 0 0 1" BorderBrush="LightPink" Width="170" Foreground="#c3c3c3" ToolTip="Поле ввода названия товара!" PreviewTextInput="Textname_PreviewTextInput"></TextBox>
+            <TextBlock Text="Цена:" FontSize="15" Foreground="Silver"></TextBlock>
+            <TextBox x:Name="textprice" BorderThickness="0 0 0 1" BorderBrush="LightPink" Width="170" Foreground="#c3c3c3" ToolTip="Поле ввода цены товара!" PreviewTextInput="Textprice_PreviewTextInput"></TextBox>
+            <TextBlock Text="Категория товара:" FontSize="15" Foreground="Silver"></TextBlock>
+            <ComboBox x:Name="cmbCategories" DisplayMemberPath="name" ToolTip="Поле выбора категории товара!"></ComboBox>
+            <TextBlock Text="Количество:" FontSize="15" Foreground="Silver"></TextBlock>
+            <TextBox x:Name="textcount" BorderThickness="0 0 0 1" BorderBrush="LightPink" Width="170" Foreground="#c3c3c3" ToolTip="Поле ввода кол-во товара!" PreviewTextInput="Textcount_PreviewTextInput"></TextBox>
+        </StackPanel>
+        <StackPanel Grid.Row="2" VerticalAlignment="Bottom" HorizontalAlignment="Right" Orientation="Horizontal">
+            <Button Width="150" Content="Изменить товар" Height="30" Foreground="White" BorderThickness="0" Background="#c3c3c3" FontSize="17" Margin="0 0 10 10" Click="Edit_Click" ToolTip="Кнопка изменения товара!"></Button>
+            <Button Width="100" Content="Назад" Height="30" Foreground="White" BorderThickness="0" Background="#c3c3c3" FontSize="17" Margin="0 0 10 10" Click="Button_GoBack" ToolTip="Кнопка возврата на страницу товара!"></Button>
+        </StackPanel>
+
+        <!-- FOOTER -->
+        <StackPanel Grid.Row="3" Background="LightPink" Orientation="Horizontal">
+            <TextBlock Text="Copyright © 2020" VerticalAlignment="Center"  FontSize="18" Margin="330 0 0 0"  Foreground="White" TextWrapping="Wrap" FontStyle="Oblique" ></TextBlock>
+        </StackPanel>
+    </Grid>
+</Window>
